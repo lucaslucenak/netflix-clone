@@ -1,5 +1,5 @@
 import React from 'react'
-import './FeaturedMoviee'
+import './FeaturedMovie'
 
 const FeaturedMovie = () => {
   return (
